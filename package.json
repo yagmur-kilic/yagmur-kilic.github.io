@@ -1,0 +1,24 @@
+{
+  "name": "yagmur-kilic.github.io",
+  "version": "1.0.0",
+  "description": "Portfolio WebSite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yagmur-kilic/yagmur-kilic.github.io.git"
+  },
+  "author": "vedat_kilic <kilicvedat@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yagmur-kilic/yagmur-kilic.github.io/issues"
+  },
+  "homepage": "https://github.com/yagmur-kilic/yagmur-kilic.github.io#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "require-dir": "^0.3.1"
+  }
+}
